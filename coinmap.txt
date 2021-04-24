@@ -1,0 +1,101 @@
+1, Bitcoin, BTC
+1027, Ethereum, ETH
+1839, Binance Coin, BNB
+52, XRP, XRP
+825, Tether, USDT
+2010, Cardano, ADA
+6636, Polkadot, DOT
+7083, Uniswap, UNI
+2, Litecoin, LTC
+1975, Chainlink, LINK
+512, Stellar, XLM
+1831, Bitcoin Cash, BCH
+2416, THETA, THETA
+2280, Filecoin, FIL
+3408, USD Coin, USDC
+1958, TRON, TRX
+74, Dogecoin, DOGE
+3717, Wrapped Bitcoin, WBTC
+3077, VeChain, VET
+5426, Solana, SOL
+4256, Klaytn, KLAY
+1765, EOS, EOS
+328, Monero, XMR
+4172, Terra, LUNA
+1720, IOTA, MIOTA
+3718, BitTorrent, BTT
+3635, Crypto.com Coin, CRO
+4687, Binance USD, BUSD
+4195, FTX Token, FTT
+7278, Aave, AAVE
+3602, Bitcoin SV, BSV
+2011, Tezos, XTZ
+3794, Cosmos, ATOM
+1376, Neo, NEO
+5805, Avalanche, AVAX
+4030, Algorand, ALGO
+7186, PancakeSwap, CAKE
+2502, Huobi Token, HT
+6892, Elrond, EGLD
+873, NEM, XEM
+5034, Kusama, KSM
+4023, Bitcoin BEP2, BTCB
+4943, Dai, DAI
+2682, Holo, HOT
+4066, Chiliz, CHZ
+131, Dash, DASH
+4642, Hedera Hashgraph, HBAR
+4157, THORChain, RUNE
+1518, Maker, MKR
+1437, Zcash, ZEC
+2130, Enjin Coin, ENJ
+1168, Decred, DCR
+1518, Maker, MKR
+1321, Ethereum Classic, ETC
+6719, The Graph, GRT
+5692, Compound, COMP
+4847, Stacks, STX
+6535, NEAR Protocol, NEAR
+2586, Synthetix, SNX
+2469, Zilliqa, ZIL
+1697, Basic Attention Token, BAT
+3957, UNUS SED LEO, LEO
+6758, SushiSwap, SUSHI
+3890, Polygon, MATIC
+2083, Bitcoin Gold, BTG
+2694, Nexo, NEXO
+3822, Theta Fuel, TFUEL
+1896, 0x, ZRX
+7129, TerraUSD, UST
+2700, Celsius, CEL
+1966, Decentraland, MANA
+5864, yearn.finance, YFI
+5617, UMA, UMA
+1274, Waves, WAVES
+2577, Ravencoin, RVN
+2566, Ontology, ONT
+2099, ICON, ICX
+1684, Qtum, QTUM
+3945, Harmony, ONE
+2087, KuCoin Token, KCS
+1808, OMG Network, OMG
+4558, Flow, FLOW
+3897, OKB, OKB
+1727, Bancor, BNT
+5665, Helium, HNT
+1042, Siacoin, SC
+109, DigiByte, DGB
+3964, Reserve Rights, RSR
+1886, Dent, DENT
+3783, Ankr, ANKR
+2135, Revain, REV
+2603, Pundi X[old], NPXS
+1817, Voyager Token, VGX
+3513, Fantom, FTM
+2499, SwissBorg, CHSB
+2539, Ren, REN
+2405, IOST, IOST
+3673, BTMX, BTMX
+5567, Celo, CELO
+3330, Paxos Standard, PAX
+7334, Conflux Network, CFX
