@@ -36,12 +36,12 @@ You will have to use your choice of code editor
    git clone https://github.com/your_username_/Project-Name.git
    ```
 3. Make a env file for the command line commands to set the environment variable, COINMARKETCAP_API_KEY.
-   ```
+
 4. Navigate to git project folder.
 
 5. Run the program with the command, 
   python cmtest.py.
-   ```
+  
 
 
 <!-- CONTRIBUTING -->
